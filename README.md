@@ -61,8 +61,11 @@ Bats can remember the last attack; Attacker for the next 50 seconds and target i
 After these 50 seconds, the bat will leave the Attacker alone, also known as Passive Attacker now.
 
 A Passive Attacker is an Attacker that stopped attacking the bats for a while,
-the bats will consider it as a Passive Attacker for two minutes if the Passive Attacker is not within a ten block radius.
-A Passive Attacker however will be attacked if an Attacker attacks the bats.
+a Passive Attacker however will be attacked if an Attacker attacks the bats.
+
+The bats will consider the Passive Attacker as a Passive Attacker for two minutes if the Passive Attacker is not within a ten block radius.
+If you enter the ten block radius of the bats when the timer was still over one minute, then it will revert back to two minutes,
+if the timer however is under one minute and you go into the radious of ten blocks near the bats, it will stop counting down, instead of resetting to two minutes.
 
 After the two minutes, the Passive Attacker will now be labelled as a Passive Player.
 A Passive Player will not be attacked whatever happens to the bats until the Passive Attacker itself attacks the bats again.
