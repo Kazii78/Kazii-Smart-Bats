@@ -4,6 +4,8 @@
 ## 📜 Overview
 
 ### 👥 Formations
+![formation](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/85ec6380-c155-48b2-8338-3aaf81775c37)
+
 - Leaders
 - Followers
 
