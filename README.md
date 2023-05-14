@@ -43,20 +43,20 @@ Bats have the ability to swarm you in a group, and they will bite and poison you
 - Held; Dropped Gunpowder (avoids, if held: stops attacking)
 - Held; Dropped Lava Bucket (avoids, if held: stops attacking)
 - Creepers & Wardens (avoids)
-- Thrown Tridents (avoids, trigger aggression)
+- Thrown Tridents (avoids, triggers aggression)
 - Thrown Eggs (avoids)
 - Thrown Snowballs (avoids)
 - Thrown Eyes of Ender (avoids)
 - Thrown Ender Pearls (avoids)
 - Fishing Bobbers (avoids)
 - Fireworks (avoids)
-- Arrows (avoids, trigger aggression)
+- Arrows (avoids, triggers aggression)
 
 ### 💢 Aggresion Triggers
-- Shot Arrows; Shot Bat
+- Shot Arrows; Threw Trident; Shot Bat; Hit Bat with Trident
 - Hitting Bats
 
-Shooting an arrow in the direction of bats will give you a strike,
+Shooting; throwing an arrow; trident in the direction of bats will give you a strike,
 once you get three strikes, you will be targetted by the bats.
 
 Shooting; Hitting a bat will immediately trigger the bats to target you.
