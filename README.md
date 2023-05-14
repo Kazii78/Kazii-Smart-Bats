@@ -25,23 +25,23 @@ this poison lasts for four seconds, being level three poison.
 Bats have the ability to swarm you in a group, and they will bite and poison you at it.
 
 ### 🪶 Fears
-- End Crystals
-- Acitvated TNTs
-- TNT Minecarts
-- Fireballs
-- Held; Dropped Fire Charges
-- Held; Dropped Flint and Steel
-- Held; Dropped Gunpowder
-- Held; Dropped Lava Bucket
-- Creepers & Wardens
-- Thrown Tridents
-- Thrown Eggs
-- Thrown Snowballs
-- Thrown Eyes of Ender
-- Thrown Ender Pearls
-- Fishing Bobbers
-- Fireworks
-- Arrows
+- End Crystals (avoids)
+- Acitvated TNTs (avoids)
+- TNT Minecarts (avoids)
+- Fireballs (avoids)
+- Held; Dropped Fire Charges (avoids, if held: stops attacking)
+- Held; Dropped Flint and Steel (avoids, if held: stops attacking)
+- Held; Dropped Gunpowder (avoids, if held: stops attacking)
+- Held; Dropped Lava Bucket (avoids, if held: stops attacking)
+- Creepers & Wardens (avoids)
+- Thrown Tridents (avoids)
+- Thrown Eggs (avoids)
+- Thrown Snowballs (avoids)
+- Thrown Eyes of Ender (avoids)
+- Thrown Ender Pearls (avoids)
+- Fishing Bobbers (avoids)
+- Fireworks (avoids)
+- Arrows (avoids)
 
 ### 💢 Aggresion Triggers
 - Shot Arrows; Shot Bat
