@@ -26,7 +26,7 @@ Bats have the ability to swarm you in a group, and they will bite and poison you
 
 ### 🪶 Fears
 - End Crystals (avoids)
-- Acitvated TNTs (avoids)
+- Activated TNTs (avoids)
 - TNT Minecarts (avoids)
 - Fireballs (avoids)
 - Held; Dropped Fire Charges (avoids, if held: stops attacking)
