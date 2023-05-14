@@ -4,7 +4,7 @@
 
 ### 👥 Formations
 - Leaders
-- Followrs
+- Followers
 
 Naturally spawned; summoned bats will be tagged as Leaders,
 these Leaders will summon a quantity of four bats,
