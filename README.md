@@ -22,7 +22,7 @@ A bat has a bite damage of three health points,
 with each bite they will give a poison effect,
 this poison lasts for four seconds, being level three poison.
 
-Bats have the ability to swarm you, they will bite and poison you.
+Bats have the ability to swarm you in a group, and they will bite and poison you at it.
 
 ### 🪶 Fears
 - End Crystals
