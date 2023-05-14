@@ -1,10 +1,10 @@
 # 🦇 Kâzii's Smart Bats
-![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/6441943d-8ac7-4018-a82f-2257296e0b73)
+![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/10b5ce76-42d5-4a27-8eef-a29db12184cf)
 
 ## 📜 Overview
 
 ### 👥 Formations
-![formation](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/85ec6380-c155-48b2-8338-3aaf81775c37)
+![formation](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/2e581cfe-0ff7-4f45-9c35-bc663114ba5f)
 
 - Leaders
 - Followers
