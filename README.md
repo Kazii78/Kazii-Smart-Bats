@@ -16,6 +16,11 @@ those four bats will be tagged as Followers.
 
 Followers follow the Leaders three blocks away to six blocks away.
 
+### 🧩 Attributes
+- Flying Speed: 0.25m/s
+- Viewing Range: 20m
+- Spawn in groups of five (can change)
+
 ### ⚔️ Attacks
 - Swarming
 - Biting
