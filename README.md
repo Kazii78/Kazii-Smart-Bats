@@ -66,6 +66,7 @@ Shooting; Hitting a bat will immediately trigger the bats to target you.
 - Attacker
 - Passive Attacker
 
+
 Bats can remember the last attack; Attacker for the next 50 seconds and target it.
 After these 50 seconds, the bat will leave the Attacker alone, also known as Passive Attacker now.
 
@@ -78,3 +79,7 @@ if the timer however is under one minute and you go into the radious of ten bloc
 
 After the two minutes, the Passive Attacker will now be labelled as a Passive Player.
 A Passive Player will not be attacked whatever happens to the bats until the Passive Attacker itself attacks the bats again.
+
+## 🗒️ Side Note
+Bats are still a bit dumb with their peanut-sized brain, they will occasionally run and suffocate inside of walls,
+a fix to grow their brain will be released later.
