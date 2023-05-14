@@ -1,4 +1,5 @@
 # 🦇 Kâzii's Smart Bats
+![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/63d34034-44d3-4176-b54d-19bfdf3e4cc4)
 
 ## 📜 Overview
 
