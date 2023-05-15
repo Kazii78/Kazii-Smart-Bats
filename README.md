@@ -1,5 +1,10 @@
-# 🦇 Kâzii's Smart Bats
+# 🦇 Kâzii's Smart Bats - v0.0.2]
 ![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/10b5ce76-42d5-4a27-8eef-a29db12184cf)
+
+## 📰 Change Logs [v0.0.2]
+- Bats have more mobility now
+- Changed flying speed
+- Optimized
 
 ## 📜 Overview
 
@@ -17,7 +22,7 @@ those four bats will be tagged as Followers.
 Followers follow the Leaders three blocks away to six blocks away.
 
 ### 🧩 Attributes
-- Flying Speed: 0.25m/s
+- Flying Speed: 0.25m/s to 0.75m/s
 - Viewing Range: 20m
 - Spawn in groups of five (can change)
 
@@ -79,7 +84,3 @@ if the timer however is under one minute and you go into the radious of ten bloc
 
 After the two minutes, the Passive Attacker will now be labelled as a Passive Player.
 A Passive Player will not be attacked whatever happens to the bats until the Passive Attacker itself attacks the bats again.
-
-## 🗒️ Side Note
-Bats are still a bit dumb with their peanut-sized brain, they will occasionally run and suffocate inside of walls,
-a fix to grow their brain will be released later.
