@@ -52,7 +52,7 @@ Bats have the ability to swarm you in a group, and they will bite and poison you
 - Fireworks (avoids)
 - Arrows (avoids, triggers aggression)
 
-### 💢 Aggresion Triggers
+### 💢 Aggression Triggers
 - Shot Arrows; Threw Trident; Shot Bat; Hit Bat with Trident
 - Hitting Bats
 
@@ -73,7 +73,7 @@ After these 50 seconds, the bat will leave the Attacker alone, also known as Pas
 A Passive Attacker is an Attacker that stopped attacking the bats for a while,
 a Passive Attacker however will be attacked if an Attacker attacks the bats.
 
-The bats will consider the Passive Attacker as a Passive Attacker for two minutes if the Passive Attacker is not within a ten block radius.
+The bats will consider the Passive Attacker as a Passive Attacker for two minutes if the Passive Attacker is not within a 10 block radius.
 If you enter the ten block radius of the bats when the timer was still over one minute, then it will revert back to two minutes,
 if the timer however is under one minute and you go into the radious of ten blocks near the bats, it will stop counting down, instead of resetting to two minutes.
 
