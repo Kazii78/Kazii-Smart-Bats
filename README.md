@@ -1,11 +1,6 @@
 # 🦇 Kâzii's Smart Bats - v0.0.2
 ![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/10b5ce76-42d5-4a27-8eef-a29db12184cf)
 
-## 📰 Change Logs [v0.0.2]
-- Bats have more mobility now
-- Changed flying speed from 0.25m/s to 0.75m/s
-- Optimized
-
 ## 📜 Overview
 
 ### 👥 Formations
