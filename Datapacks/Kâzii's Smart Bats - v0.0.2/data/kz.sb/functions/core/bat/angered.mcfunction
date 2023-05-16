@@ -1,0 +1,1 @@
+execute as @e[type=bat] at @s if score @s core.kz.sb matches 1000 run particle angry_villager ~ ~0.6 ~ 0 0 0 0 0 force @a[distance=..20]

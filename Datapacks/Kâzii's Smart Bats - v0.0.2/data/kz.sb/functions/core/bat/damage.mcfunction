@@ -1,0 +1,5 @@
+execute as @e[type=bat,tag=!rogue.kz.sb] at @s if score @s core.kz.sb matches 1.. as @a[tag=attacker.kz.sb,distance=..1] run damage @s 2 mob_attack by @e[limit=1,sort=nearest,type=bat]
+execute as @e[type=bat,tag=rogue.kz.sb] at @s if score @s core.kz.sb matches 1.. as @a[tag=attacker.kz.sb,distance=..1] run damage @s 4 mob_attack by @e[limit=1,sort=nearest,type=bat]
+execute as @e[type=bat] at @s if score @s core.kz.sb matches 1.. as @a[tag=attacker.kz.sb,distance=..1] run effect give @s poison 4 1
+execute as @e[type=bat,tag=!rogue.kz.sb] at @s if score @s core.kz.sb matches 1.. as @a[tag=attacker.kz.sb,distance=..1] if predicate kz.sb:10.percent run effect give @s blindness 2 3
+execute as @e[type=bat,tag=rogue.kz.sb] at @s if score @s core.kz.sb matches 1.. as @a[tag=attacker.kz.sb,distance=..1] if predicate kz.sb:20.percent run effect give @s blindness 2 3

@@ -3,6 +3,14 @@
 
 ## 📜 Overview
 
+### 📰 Changes
+- Added advancements
+- Smoothened bat motion
+- Added particles
+- Added Rogues
+- Added blinding
+- Leaders now have ten health points
+
 ### 👥 Formations
 ![formation](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/2e581cfe-0ff7-4f45-9c35-bc663114ba5f)
 
@@ -14,24 +22,34 @@ Naturally spawned; summoned bats will be tagged as Leaders,
 these Leaders will summon a quantity of four bats,
 those four bats will be tagged as Followers.
 
-Followers follow the Leaders three blocks away to ten blocks away.
+Followers follow the Leaders three blocks away to 12 blocks away.
+
+### ⚠️ Rogue Bats
+- Hit damages increases to four health points
+- Blinding increases to 20%
+
+Rogues are formed from Followers,
+when a Follower loses its Leader, it has a 20% chance of becoming a Rogue.
+A Rogue acts like all other bats, but refuses to participate in Formations.
 
 ### 🧩 Attributes
 - Flying Speed: 0.25m/s to 0.75m/s
 - Viewing Range: 20m
-- Spawn in groups of five (can change)
+- Spawn in groups of six (can change over time)
 
 ### ⚔️ Attacks
 - Swarming
 - Biting
 - Venom
 
-All bats have all three attacks: Swarming, biting, venom.
-A bat has a bite damage of three health points,
+All bats have all four attacks: Swarming, biting, poison, blinding.
+A bat has a bite damage of two health points,
 with each bite they will give a poison effect,
-this poison lasts for four seconds, being level three poison.
+this poison lasts for four seconds, being level two poison.
+Bats also have a 10% chance of blinding you for two seconds with level two blindness.
 
 Bats have the ability to swarm you in a group, and they will bite and poison you at it.
+The maximum amount of bats that can attack you during swarming is five.
 
 ### 🪶 Fears
 - End Crystals (avoids)
@@ -79,3 +97,9 @@ if the timer however is under one minute and you go into the radious of ten bloc
 
 After the two minutes, the Passive Attacker will now be labelled as a Passive Player.
 A Passive Player will not be attacked whatever happens to the bats until the Passive Attacker itself attacks the bats again.
+
+### 🎯 Advancements
+- Disturbed
+- Broken Apart
+
+Disturbed is an achievement that you receive by disturbing bat(s).
