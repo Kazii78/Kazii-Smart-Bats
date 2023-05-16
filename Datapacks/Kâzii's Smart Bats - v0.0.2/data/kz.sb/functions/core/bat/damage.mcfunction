@@ -1,0 +1,2 @@
+execute as @e[type=bat] at @s unless score @s core.kz.sb matches ..0 as @a[tag=attacker.kz.sb,distance=..1] run damage @s 3 mob_attack by @e[limit=1,sort=nearest,type=bat]
+execute as @e[type=bat] at @s unless score @s core.kz.sb matches ..0 as @a[tag=attacker.kz.sb,distance=..1] run effect give @s poison 4 2
