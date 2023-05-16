@@ -40,7 +40,8 @@ A Rogue acts like all other bats, but refuses to participate in Formations.
 ### ⚔️ Attacks
 - Swarming
 - Biting
-- Venom
+- Poison
+- Blinding
 
 All bats have all four attacks: Swarming, biting, poison, blinding.
 A bat has a bite damage of two health points,
