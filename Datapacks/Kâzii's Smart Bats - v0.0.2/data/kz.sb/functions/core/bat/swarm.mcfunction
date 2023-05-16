@@ -1,2 +1,0 @@
-execute as @e[type=bat] at @s unless score @s core.kz.sb matches ..0 facing entity @p[tag=attacker.kz.sb,distance=..20] feet if block ^ ^ ^0.25 air if block ^ ^ ^0.5 air if block ^ ^ ^0.75 air if block ^ ^ ^1 air run tp @s ^ ^ ^0.25
-execute as @e[type=bat] at @s unless score @s core.kz.sb matches ..0 if entity @p[tag=attacker.kz.sb,distance=..20] facing entity @e[type=bat,distance=0.1..3] feet if block ^ ^ ^-0.25 air if block ^ ^ ^-0.5 air if block ^ ^ ^-0.75 air if block ^ ^ ^-1 air unless entity @a[tag=attacker.kz.sb,distance=..2] run tp @s ^ ^ ^-0.5
