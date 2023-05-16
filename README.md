@@ -120,3 +120,5 @@ Orange: Leader
 Blue: Follower
 
 If bats are angered, they will display an `angry_villager` particle above them.
+
+These particles can only be seen if you run `/trigger particles.kz.sb`.
