@@ -102,8 +102,10 @@ A Passive Player will not be attacked whatever happens to the bats until the Pas
 - Disturbed
 ![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/98af2c50-ecb8-4453-90e9-73abbc251850)
 
+
 - Broken Apart
 ![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/32a4f6eb-f4bf-49a0-93fe-2d9f2523e6ea)
+
 
 Disturbed is an achievement that you receive by disturbing bat(s).
 Broken Apart requires you to kill the leader of a bat formation, breaking it apart.
