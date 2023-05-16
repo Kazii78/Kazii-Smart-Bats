@@ -113,11 +113,7 @@ Broken Apart requires you to kill the leader of a bat formation, breaking it apa
 ### ✨ Particles
 - Role Colors
 
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/7d1fce40-e8ac-425c-a0de-e2395f959abe)
-
-Red: Rogue
-Orange: Leader
-Blue: Follower
+![roles](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/9396ab2b-79c8-451a-b665-0f3ef3855118)
 
 If bats are angered, they will display an `angry_villager` particle above them.
 
