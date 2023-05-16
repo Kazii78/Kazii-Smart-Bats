@@ -109,3 +109,14 @@ A Passive Player will not be attacked whatever happens to the bats until the Pas
 
 Disturbed is an achievement that you receive by disturbing bat(s).
 Broken Apart requires you to kill the leader of a bat formation, breaking it apart.
+
+### ✨ Particles
+- Role Colors
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/7d1fce40-e8ac-425c-a0de-e2395f959abe)
+
+Red: Rogue
+Orange: Leader
+Blue: Follower
+
+If bats are angered, they will display an `angry_villager` particle above them.
