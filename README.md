@@ -3,7 +3,7 @@
 
 ## 📰 Change Logs [v0.0.2]
 - Bats have more mobility now
-- Changed flying speed
+- Changed flying speed from 0.25m/s to 0.75m/s
 - Optimized
 
 ## 📜 Overview
