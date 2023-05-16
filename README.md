@@ -1,4 +1,4 @@
-# 🦇 Kâzii's Smart Bats - v0.0.2]
+# 🦇 Kâzii's Smart Bats - v0.0.2
 ![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/10b5ce76-42d5-4a27-8eef-a29db12184cf)
 
 ## 📰 Change Logs [v0.0.2]
