@@ -1,0 +1,22 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:gunpowder"
+      },
+      "title": "Scaredy Bats",
+      "description": "Make some bats fear you by holding a gunpowder.",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "kz.sb:bat/root",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "rewards": {
+      "experience": 12
+    }
+  }
+  

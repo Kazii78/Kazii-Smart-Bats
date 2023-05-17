@@ -4,13 +4,12 @@
 ## 📜 Overview
 
 ### 📰 Changes
-- Removed Broken Apart Advancement
-- Added Lost Crown Advancement
-- Added Scaredy Bats Advancement
-- Added Blown to Bits Advancement
-- Optimized
-- Slight Tweaks to Behaviour
-- Follower to Rogue Chance
+- Added advancements
+- Smoothened bat motion
+- Added particles
+- Added Rogues
+- Added blinding
+- Leaders now have ten health points
 
 ### 👥 Formations
 ![formation](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/2e581cfe-0ff7-4f45-9c35-bc663114ba5f)
@@ -25,8 +24,13 @@ those four bats will be tagged as Followers.
 
 Followers follow the Leaders three blocks away to 12 blocks away.
 
-### ⚙️ General
-- Most of the datapack shuts off if no bats are present.
+### ⚠️ Rogue Bats
+- Hit damages increases to four health points
+- Blinding increases to 20%
+
+Rogues are formed from Followers,
+when a Follower loses its Leader, it has a 20% chance of becoming a Rogue.
+A Rogue acts like all other bats, but refuses to participate in Formations.
 
 ### 🧩 Attributes
 - Flying Speed: 0.25m/s to 0.75m/s
@@ -47,29 +51,16 @@ Bats also have a 10% chance of blinding you for two seconds with level two blind
 
 Bats have the ability to swarm you in a group, and they will bite and poison you at it.
 The maximum amount of bats that can attack you during swarming is five.
-A Leader ignores the maximum limit of swarming bats.
-
-### ⚠️ Rogue Bats
-- Hit damages increases to four health points
-- Blinding increases to 20%
-
-Rogues are formed from Followers,
-when a Follower loses its Leader, it has a 20% chance of becoming a Rogue.
-A Rogue acts like all other bats, but refuses to participate in Formations.
-
-However, if the Follower gets tired of following Leaders,
-it will always have a 1% chance of becoming a Rogue and leaving the group.
 
 ### 🪶 Fears
 - End Crystals (avoids)
 - Activated TNTs (avoids)
 - TNT Minecarts (avoids)
-- Small Fireballs (avoids)
 - Fireballs (avoids)
-- Held; Dropped Fire Charges (avoids)
-- Held; Dropped Flint and Steel (avoids)
-- Held; Dropped Gunpowder (avoids)
-- Held; Dropped Lava Bucket (avoids)
+- Held; Dropped Fire Charges (avoids, if held: stops attacking)
+- Held; Dropped Flint and Steel (avoids, if held: stops attacking)
+- Held; Dropped Gunpowder (avoids, if held: stops attacking)
+- Held; Dropped Lava Bucket (avoids, if held: stops attacking)
 - Creepers & Wardens (avoids)
 - Thrown Tridents (avoids, triggers aggression)
 - Thrown Eggs (avoids)
@@ -81,7 +72,7 @@ it will always have a 1% chance of becoming a Rogue and leaving the group.
 - Arrows (avoids, triggers aggression)
 
 ### 💢 Aggression Triggers
-- Shot Arrows; Threw Trident; Damaged by Firework Rockets from Player; Shot Bat; Hit Bat with Trident
+- Shot Arrows; Threw Trident; Shot Bat; Hit Bat with Trident
 - Hitting Bats
 
 Shooting; throwing an arrow; trident in the direction of bats will give you a strike,
@@ -109,12 +100,21 @@ After the two minutes, the Passive Attacker will now be labelled as a Passive Pl
 A Passive Player will not be attacked whatever happens to the bats until the Passive Player itself attacks the bats again.
 
 ### 🎯 Advancements
+- Disturbed
 
-Section updating in a couple.
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/98af2c50-ecb8-4453-90e9-73abbc251850)
+
+- Broken Apart
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/32a4f6eb-f4bf-49a0-93fe-2d9f2523e6ea)
+
+Disturbed is an achievement that you receive by disturbing bat(s).
+Broken Apart requires you to kill the leader of a bat formation, breaking it apart.
 
 ### ✨ Particles
 - Role Colors
-An orange particle above the bat indicates it is a Leader, a blue one indicates it is a Follower, a green one indicates it is a Follower without a Leader, a red one indicates it is a rogue.
+
+![roles](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/9396ab2b-79c8-451a-b665-0f3ef3855118)
 
 If bats are angered, they will display an `angry_villager` particle above them.
 

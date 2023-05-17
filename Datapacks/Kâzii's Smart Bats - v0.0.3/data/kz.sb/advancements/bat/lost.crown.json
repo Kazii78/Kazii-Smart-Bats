@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_helmet"
+    },
+    "title": "Lost Crown",
+    "description": "Kill a Leader bat.",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "kz.sb:bat/disturbed",
+  "criteria": {
+    "disturb": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:bat",
+              "nbt": "{Tags:[\"leader.kz.sb\",\"leading.kz.sb\"]}"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 68
+  }
+}

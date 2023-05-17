@@ -1,0 +1,10 @@
+execute if entity @e[type=bat] run function kz.sb:core/bat/attacker
+execute if entity @e[type=bat] run function kz.sb:core/bat/swarm
+execute if entity @e[type=bat] run function kz.sb:core/bat/damage
+execute if entity @e[type=bat] run function kz.sb:core/bat/damaging.projectiles
+execute if entity @e[type=bat] run function kz.sb:core/bat/memory
+execute if entity @e[type=bat] run function kz.sb:core/bat/fears
+execute if entity @e[type=bat] run function kz.sb:core/bat/tag
+execute if entity @e[type=bat] run function kz.sb:core/bat/roles
+execute if entity @e[type=bat] run function kz.sb:core/bat/avoid
+execute if entity @e[type=bat] run function kz.sb:core/triggers/particles
