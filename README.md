@@ -133,8 +133,6 @@ A Passive Player will not be attacked whatever happens to the bats until the Pas
 ![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/b4583c82-b2e1-4527-8ed7-2a6dd9fdac50)
 
 ### ✨ Particles
-- Role Colors
-
 An orange particle above the bat indicates it is a Leader, a blue one indicates it is a Follower, a green one indicates it is a Follower without a Leader, a red one indicates it is a rogue.
 
 If bats are angered, they will display an `angry_villager` particle above them.
