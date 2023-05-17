@@ -134,6 +134,7 @@ A Passive Player will not be attacked whatever happens to the bats until the Pas
 
 ### ✨ Particles
 - Role Colors
+
 An orange particle above the bat indicates it is a Leader, a blue one indicates it is a Follower, a green one indicates it is a Follower without a Leader, a red one indicates it is a rogue.
 
 If bats are angered, they will display an `angry_villager` particle above them.
