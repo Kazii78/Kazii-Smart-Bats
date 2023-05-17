@@ -8,6 +8,7 @@
 - Added Lost Crown Advancement
 - Added Scaredy Bats Advancement
 - Added Blown to Bits Advancement
+- Added Wing Collector
 - Optimized
 - Slight Tweaks to Behaviour
 - Follower to Rogue Chance
@@ -109,8 +110,27 @@ After the two minutes, the Passive Attacker will now be labelled as a Passive Pl
 A Passive Player will not be attacked whatever happens to the bats until the Passive Player itself attacks the bats again.
 
 ### 🎯 Advancements
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/79531dbd-bf5c-4b79-adb7-6a48da7f5f51)
 
-Section updating in a couple.
+- Scaredy Bats
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/366813f1-fbf2-4043-801a-92448000b065)
+
+- Disturbed
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/2621dad6-bd21-430f-b71f-76e69e8fefec)
+
+- Lost Crown
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/7dd8c001-91db-49b4-973d-862d561998e2)
+
+- Blown to Bits
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/7c2bfde7-06d6-4e7c-b229-e3f9579f0069)
+
+- Wing Collector
+
+![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/b4583c82-b2e1-4527-8ed7-2a6dd9fdac50)
 
 ### ✨ Particles
 - Role Colors
