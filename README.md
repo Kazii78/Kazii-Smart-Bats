@@ -80,6 +80,7 @@ Functionality:
 Having a score of 40+ will make the bats not target you after hitting them. (You still lose reputation points.) & (Bats will not follow this mechanic until you are not classified as an Attacker.)
 
 Having a score of 200+ will make the bats protect you from any Attackers. (Bats will not follow this mechanic until you are no longer classified as an Attacker.)
+When attacked, all bats in a 20 meter radius around the Attacker will be angered.
 
 Having a score of -60 and under will always make the bats target you, wether you disturbed them or not.
 
