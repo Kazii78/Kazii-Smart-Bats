@@ -4,7 +4,20 @@
 ## 📜 Overview
 
 ### 📰 Changes
-- Quick Code Fix, see the v0.0.4 change log if you haven't.
+- Advancement Tweaks
+- Added Player Reputation
+- Added Rivals Advancement
+- Bat Advancement is given upon discovering bats.
+- Renamed Disturbed Advancement to Really?
+- Added Shielders Advancement
+- Added F-Friends..? Advancement
+
+- Quick Code Fix for v0.0.4
+
+### 🗞️ Suggested Changes
+Suggestions by https://www.planetminecraft.com/member/pea_sh0ter/:
+- Added Bat-ter up! Advancement
+- Added King of the Skies Advancement
 
 ### 👥 Formations
 ![formation](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/2e581cfe-0ff7-4f45-9c35-bc663114ba5f)
@@ -53,6 +66,22 @@ A Rogue acts like all other bats, but refuses to participate in Formations.
 
 However, if the Follower gets tired of following Leaders,
 it will always have a 1% chance of becoming a Rogue and leaving the group.
+
+### 👤 Player Reputation
+Player Reputation will determine your relationship with bats.
+
+All players start at 0 reputation, this can change by doing these actions:
+- Feeding a bat with any type of seed ({Reputation.Score}+{Item.Count})
+- Hurting a bat in any way ({Reputation.Score}-50)
+
+The maximum reputation score someone can have is 300 and the lowest is -100.
+
+Functionality:
+Having a score of 40+ will make the bats not target you after hitting them. (You still lose reputation points.) & (Bats will not follow this mechanic until you are not classified as an Attacker.)
+
+Having a score of 200+ will make the bats protect you from any Attackers. (Bats will not follow this mechanic until you are no longer classified as an Attacker.)
+
+Having a score of -60 and under will always make the bats target you, wether you disturbed them or not.
 
 ### 🪶 Fears
 - End Crystals (avoids)
@@ -103,27 +132,41 @@ After the two minutes, the Passive Attacker will now be labelled as a Passive Pl
 A Passive Player will not be attacked whatever happens to the bats until the Passive Player itself attacks the bats again.
 
 ### 🎯 Advancements
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/79531dbd-bf5c-4b79-adb7-6a48da7f5f51)
+- Bats
+
+Gained by getting near bats.
 
 - Scaredy Bats
 
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/366813f1-fbf2-4043-801a-92448000b065)
+Acquired by holding gunpowder near bats to scare them off.
 
-- Disturbed
+- Really?
 
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/2621dad6-bd21-430f-b71f-76e69e8fefec)
+Acquired by angering some lone bats for no reason.
+
+- F-Friends..?
+
+Acquired by gaining a reputation of 40+.
 
 - Lost Crown
 
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/7dd8c001-91db-49b4-973d-862d561998e2)
+Acquired by killing a Leader bat.
 
-- Blown to Bits
+- King of the Skies
 
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/7c2bfde7-06d6-4e7c-b229-e3f9579f0069)
+Acquired by killing a Leader bat while flying an Elytra.
 
 - Wing Collector
 
-![image](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/b4583c82-b2e1-4527-8ed7-2a6dd9fdac50)
+Acquired by killing a bat with shears.
+
+- Blown to Bits
+
+Acquired by firing a firework rocket using a crossbow at some bats and killing them.
+
+- Shielders
+
+Acquired by gaining a reputation of 200+.
 
 ### ✨ Particles
 An orange particle above the bat indicates it is a Leader, a blue one indicates it is a Follower, a green one indicates it is a Follower without a Leader, a red one indicates it is a rogue.
