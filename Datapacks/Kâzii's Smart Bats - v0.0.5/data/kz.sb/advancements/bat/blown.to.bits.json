@@ -1,0 +1,36 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:firework_rocket"
+      },
+      "title": "Blown to Bits",
+      "description": "Fire a firework rocket using a crossbow at some bats and kill them.",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "kz.sb:bat/really",
+    "criteria": {
+      "rocket": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": {
+            "equipment": {}
+          },
+          "entity": {
+            "type": "minecraft:bat",
+            "equipment": {}
+          },
+          "killing_blow": {
+            "direct_entity": {
+              "type": "minecraft:firework_rocket"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "experience": 102
+    }
+  }
+  

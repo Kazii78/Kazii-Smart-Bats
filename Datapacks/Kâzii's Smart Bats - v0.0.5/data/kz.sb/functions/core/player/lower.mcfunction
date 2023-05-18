@@ -1,0 +1,2 @@
+execute as @a[advancements={kz.sb:reputation/lower=true}] run scoreboard players remove @s reputation.kz.sb 50
+advancement revoke @a[advancements={kz.sb:reputation/lower=true}] only kz.sb:reputation/lower

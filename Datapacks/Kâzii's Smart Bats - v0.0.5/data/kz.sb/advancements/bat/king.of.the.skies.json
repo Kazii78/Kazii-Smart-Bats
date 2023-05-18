@@ -1,0 +1,42 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:elytra",
+        "nbt": "{Enchantments:[{}]}"
+      },
+      "title": {
+        "text": "King of the Skies"
+      },
+      "description": "Kill a Leader bat while flying an Elytra.",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "kz.sb:bat/really",
+    "criteria": {
+      "sky": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player",
+                "nbt": "{FallFlying:1b}"
+              }
+            }
+          ],
+          "entity": {
+            "type": "minecraft:bat",
+            "nbt": "{Tags:[\"leader.kz.sb\",\"leading.kz.sb\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "experience": 143
+    }
+  }
+  
