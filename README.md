@@ -11,7 +11,6 @@
 - Renamed Disturbed Advancement to Really?
 - Added Shielders Advancement
 - Added F-Friends..? Advancement
-
 - Quick Code Fix for v0.0.4 & v.0.0.5
 - Replaced . with _ for the .json files in the advancements folder for compatibility issues with Planetminecraft
 
