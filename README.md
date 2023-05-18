@@ -131,35 +131,35 @@ A Passive Player will not be attacked whatever happens to the bats until the Pas
 
 ### 🎯 Advancements
 - Bats
-- 
+
 Gained by getting near bats.
 
 - Scaredy Bats
-- 
+
 Acquired by holding gunpowder near bats to scare them off.
 
 - Really?
-- 
+
 Acquired by angering some lone bats for no reason.
 
 - F-Friends..?
-- 
+
 Acquired by gaining a reputation of 40+.
 
 - Lost Crown
-- 
+
 Acquired by killing a Leader bat.
 
 - King of the Skies
-- 
+
 Acquired by killing a Leader bat while flying an Elytra.
 
 - Wing Collector
-- 
+
 Acquired by killing a bat with shears.
 
 - Blown to Bits
-- 
+
 Acquired by firing a firework rocket using a crossbow at some bats and killing them.
 
 - Shielders
