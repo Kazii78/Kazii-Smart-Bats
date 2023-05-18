@@ -1,4 +1,4 @@
-# 🦇 Kâzii's Smart Bats - v0.0.6
+# 🦇 Kâzii's Smart Bats - v0.0.7
 ![brain](https://github.com/Kazii78/Kazii-Smart-Bats/assets/109925073/10b5ce76-42d5-4a27-8eef-a29db12184cf)
 
 ## 📜 Overview
@@ -13,6 +13,7 @@
 - Added F-Friends..? Advancement
 
 - Quick Code Fix for v0.0.4 & v.0.0.5
+- Replaced . with _ for the .json files in the advancements folder for compatibility issues with Planetminecraft
 
 ### 🗞️ Suggested Changes
 Suggestions by https://www.planetminecraft.com/member/pea_sh0ter/:
