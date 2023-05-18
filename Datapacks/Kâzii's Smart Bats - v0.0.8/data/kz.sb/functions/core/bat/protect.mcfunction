@@ -1,0 +1,2 @@
+execute as @a[tag=!attacker.kz.sb] if score @s reputation.kz.sb matches 200.. at @s on attacker at @s as @e[type=bat,distance=..20] if score @s core.kz.sb matches ..900 run scoreboard players set @s core.kz.sb 1000
+execute as @a[tag=!attacker.kz.sb] if score @s reputation.kz.sb matches 200.. at @s on attacker run tag @s add attacker.kz.sb

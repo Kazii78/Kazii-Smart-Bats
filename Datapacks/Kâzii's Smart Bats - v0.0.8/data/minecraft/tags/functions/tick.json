@@ -1,0 +1,8 @@
+{
+    "values":[
+        "kz.sb:core/toggle",
+        "kz.sb:core/advancements/advancement",
+        "kz.sb:core/player/reputation",
+        "kz.sb:core/player/lower"
+    ]
+}
