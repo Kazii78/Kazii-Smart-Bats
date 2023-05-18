@@ -1,0 +1,1 @@
+scoreboard objectives add particles.kz.sb trigger {"text":"Bat Role Particles"}

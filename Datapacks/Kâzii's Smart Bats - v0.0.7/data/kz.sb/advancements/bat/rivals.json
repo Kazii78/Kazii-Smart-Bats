@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:iron_sword",
+        "nbt": "{Enchantments:[{}]}"
+      },
+      "title": "Rivals",
+      "description": "Get your reputation to -60.",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "kz.sb:bat/really",
+    "criteria": {
+      "impossible": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "rewards": {
+      "experience": 39
+    }
+  }
+  

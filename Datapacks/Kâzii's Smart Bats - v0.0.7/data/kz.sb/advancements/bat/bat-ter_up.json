@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cake"
+    },
+    "title": "Bat-ter up!",
+    "description": "Hit a bat with a cake.",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "kz.sb:bat/really",
+  "criteria": {
+    "cake": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "cake"
+              ]
+            }
+          }
+        },
+        "entity": {
+          "type": "minecraft:bat"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 21
+  }
+}
